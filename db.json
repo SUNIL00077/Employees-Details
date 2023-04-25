@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "empdatails": [
+    {
+      "fname": "sunil",
+      "lname": "lengare",
+      "email": "rtvybui",
+      "mobile": "vshscjhbhj",
+      "city": "bcjbjcbjc",
+      "id": 3
+    },
+    {
+      "fname": "santosh",
+      "lname": "scncsn",
+      "email": "jbjhvj",
+      "mobile": "vjvjvb",
+      "city": "njsvj",
+      "id": 4
+    },
+    {
+      "fname": "pppppppppppp",
+      "lname": "Bichukle",
+      "email": "Ajit@gmail.com",
+      "mobile": "64526646665",
+      "city": "Baramati",
+      "id": 5
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "email": "",
+      "mobile": "",
+      "city": "",
+      "id": 6
+    },
+    {
+      "fname": "jhsbjhbcjhb",
+      "lname": "bvjsbvh",
+      "email": "dvnjvnj",
+      "mobile": "6564534",
+      "city": "hfjjfbjb",
+      "id": 7
+    },
+    {
+      "fname": "nnkfn",
+      "lname": "ffnnvkvn",
+      "email": "vnfknvkjn",
+      "mobile": "fvdfkv",
+      "city": "n nv ",
+      "id": 8
+    },
+    {
+      "fname": "nkfdnjkfnvjkfdn",
+      "lname": "jnenk",
+      "email": "veivefvj",
+      "mobile": "vgfu",
+      "city": "uchdhd",
+      "id": 9
+    },
+    {
+      "fname": "vdvdv",
+      "lname": "dvdv",
+      "email": "dvdv",
+      "mobile": "dd",
+      "city": "",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

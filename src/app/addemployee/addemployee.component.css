@@ -1,0 +1,19 @@
+.example-form {
+  min-width: 150px;
+  max-width: 450px;
+  width: 100%;
+  padding: 40px;
+  height: 500px;
+}
+
+.example-full-width {
+  align-items: center;
+  width: 90%;
+}
+h1
+{
+  text-align: center;
+}
+button{
+  width: 90%;
+}
